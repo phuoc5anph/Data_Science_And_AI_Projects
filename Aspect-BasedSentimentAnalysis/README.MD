@@ -19,19 +19,6 @@ Bài tập nhóm này là phần quan trọng trong kỳ học, chiếm 70% đi�
 |                    |          | - Phân công công việc rõ ràng                                                            |
 |                    |          | - Có kế hoạch triển khai và báo cáo tiến độ đầy đủ                                      |
 
-## Hướng Dẫn Thực Hiện
 
-1. **Tạo Nhóm**: Tạo nhóm và phân công công việc cho các thành viên.
-2. **Phân Tích Yêu Cầu**: Xác định bài toán kinh doanh và yêu cầu phân tích tình cảm.
-3. **Thu Thập Dữ Liệu**: Tìm kiếm và thu thập dữ liệu văn bản cần thiết.
-4. **Xử Lý Dữ Liệu**: Làm sạch dữ liệu và thực hiện phân tích tình cảm.
-5. **Áp Dụng Kỹ Thuật Học Máy**: Sử dụng các kỹ thuật học máy để cải thiện phân tích tình cảm.
-6. **Giải Quyết Bài Toán Kinh Doanh**: Ứng dụng kết quả phân tích để giải quyết bài toán kinh doanh.
-7. **Lập Kế Hoạch và Báo Cáo**: Xây dựng kế hoạch triển khai và báo cáo tiến độ.
-
-## Nộp Bài
-
-- Đảm bảo rằng tất cả các tiêu chí đánh giá đều được đáp ứng.
-- Nộp bài qua hệ thống nộp bài của môn học hoặc gửi email theo hướng dẫn của giảng viên.
 
 Chúc các bạn thành công trong bài tập nhóm này!
